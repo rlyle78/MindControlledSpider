@@ -1,0 +1,19 @@
+{
+  "name": "mindcontrolledspider",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "barcli": "0.0.19",
+    "cylon": "^1.2.0",
+    "cylon-ble": "^0.8.0",
+    "cylon-firmata": "^0.23.0",
+    "cylon-keyboard": "^0.16.0",
+    "cylon-neurosky": "^0.13.0"
+  }
+}
