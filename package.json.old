@@ -9,10 +9,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "barcli": "0.0.22",
-    "bluetooth-serial-port": "^1.2.6",
+    "barcli": "0.0.19",
     "cylon": "^1.2.0",
-    "cylon-ble": "^0.10.1",
-    "cylon-keyboard": "^0.16.0"
+    "cylon-ble": "^0.8.0",
+    "cylon-firmata": "^0.23.0",
+    "cylon-keyboard": "^0.16.0",
+    "cylon-neurosky": "^0.13.0"
   }
 }
